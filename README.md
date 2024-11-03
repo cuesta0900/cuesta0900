@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am ~~groot~~ Pedro Costa, a Python Developer, from São Paulo, Brazil 🇧🇷</p>
+<p align="left">I am</p> ~~groot~~ <p>Pedro Costa, a Python Developer, from São Paulo, Brazil 🇧🇷</p>
 
 ###
 
